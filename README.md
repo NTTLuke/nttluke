@@ -9,7 +9,7 @@ I'm a passionate software developer and cloud solution architect with 18+ years 
 - ⚡I am training to complete my first "Spartan Race". Please, send me "good mana" since I need it. :pray:
 
 
-#### 💥 ⭐ Take a look to my first personal NFT 💥 ⭐
+#### 💥 ⭐ Take a look at my first personal NFT 💥 ⭐
 <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
     <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
 </a>
