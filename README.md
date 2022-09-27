@@ -4,11 +4,16 @@
 I'm a passionate software developer and cloud solution architect with 18+ years of experience in the .NET software development stack.
 
 - 🔭 I’m currently working on a futuristic and advanced Demand Side Platform service (aka DSP) for a brand new startup.    
-- 🌱 I’m studying all about blockchain, Web3 and Solidity programming language.
+- 🌱 I’m studying all about blockchain, Web3 and Solidity programming language. 
 - :guitar: I'm a music producer and I play guitar with the folk/rock band [Lingalad](https://it.wikipedia.org/wiki/Lingalad)  
 - ⚡I am training to complete my first "Spartan Race". Please, send me "good mana" since I need it. :pray:
 
 
+#### Take a look to my first personal NFT project made to learn NFT smart contracts. 
+<a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
+    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
+</a>
+</div>
 
 
 ##### A bunch of different technologies I use
