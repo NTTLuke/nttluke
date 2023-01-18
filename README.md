@@ -1,5 +1,5 @@
 
-#### Hi there, I'm Luca👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F757&width=435&lines=Hi+there%2C+I'm+Luca%F0%9F%91%8B;I+always+love+to+learn+new+stuffs)](https://git.io/typing-svg)
 
 I'm a passionate software developer and cloud solution architect with 18+ years of experience in the .NET software development stack.
 
