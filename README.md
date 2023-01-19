@@ -11,93 +11,37 @@ I'm a passionate software developer and cloud solution architect with 18+ years 
 
 
 ##### A bunch of different technologies I use
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-    <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48" /> </a>
-      <br />Azure
-    </td>
-      <td align="center" height="108" width="108">
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="48" height="48" /> </a>
-      <br />
-    </td>
-    <td align="center" height="108" width="108">
-     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48" /> </a>
-      <br />
-    </td>
-    <td align="center" height="108" width="108">
-         <a href="https://www.mongodb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="48" height="48"/> </a>
-      <br />MongoDb
-    </td>
-    <td align="center" height="108" width="108">
-       <a href="https://www.redis.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="48" height="48" /> </a>
-      <br />Redis
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
-        width="48"
-        height="48"
-        alt="Solidity"
-      />
-      <br />Solidity
-    </td>
-      <td align="center" height="108" width="108">
-          <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" /> </a>
-      <br />
-    </td>
-    <td align="center" height="108" width="108">
-     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" /> </a>
-      <br />Postman
-    </td>
-    <td align="center" height="108" width="108">
-        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" /> </a>
-      <br />Python
-    </td>
-    <td align="center" height="108" width="108">
-     <a href="https://k6.io/" target="_blank"> <img src="https://raw.githubusercontent.com/grafana/k6/e8140190cb9126498b502b7aa1dad8c095c3fa51/assets/logo.svg" alt="k6" width="48" height="48" /> </a>
-      <br />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" height="108" width="108">
-        <a href="https://azure.microsoft.com/it-it/products/devops" target="_blank"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/services_devops_pipelines-icon-80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fmt=png-alpha&fit=constrain" alt="Devops" width="35"/> </a>
-      <br />Devops
-  </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png"
-        width="48"
-        height="48"
-        alt="Solidity"
-      />
-      <br />Sql Server
-    </td>
-    <td align="center" height="108" width="108">
-    <a href="https://www.zyte.com/" target="_blank"> <img src="https://www.zyte.com/wp-content/uploads/2021/02/zyte-logo-1920.png" alt="zyte" width="80" /> </a>
-      <br />
-    </td>
-    <td align="center" height="108" width="108">
-     <a href="https://www.alchemy.com" target="_blank"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t" alt="Alchemy" width="48" height="48" /> </a>
-      <br />Alchemy
-    </td>
-       <td align="center" height="108" width="108">
-     <a href="https://www.openzeppelin.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" alt="Alchemy" width="48" height="48" /> </a>
-      <br />Open Zeppelin
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" width="52" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="52" width="52" alt="dotnetcore logo"  />
+  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/services_devops_pipelines-icon-80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fmt=png-alpha&fit=constrain" height="52" width="52" alt="devops logo"  />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="52" width="52" alt="c# logo"  />
+  <img src="https://raw.githubusercontent.com/grafana/k6/e8140190cb9126498b502b7aa1dad8c095c3fa51/assets/logo.svg" height="52" width="52" alt="k6 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" width="48" alt="mongodb logo"  />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="52" width="52" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" width="48" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" width="52" alt="docker logo"  />
+  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" height="52" width="52" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" width="52" alt="python logo"  />
+  <img src="https://www.zyte.com/wp-content/uploads/2021/02/zyte-logo-1920.png" height="40" width="52" alt="zyte logo"  />
+  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" height="52" width="52" alt="solidity logo"  />
+  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t" height="52" width="52" alt="alchemy logo"  />
+  <img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" height="52" width="52" alt="openzeppelin logo" />
+</div>
+
 
 <hr/>
+<div align="center">
+   💥 ⭐ Take a look at my first personal NFT 💥 ⭐ 
+</div>
 
-### 💥 ⭐ Take a look at my first personal NFT 💥 ⭐
-<a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
+<br/>
+<div align="center">
+  <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
     <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
-</a>
+  </a>
+</div>
+
 
 
 
