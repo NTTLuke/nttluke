@@ -2,7 +2,7 @@
 
 
 
-I'm a passionate software developer and cloud solution architect with 18+ years of experience in software development.
+I'm a passionate software developer and cloud solution architect with 20+ years of experience in software development.
 
 - 🔭 I’m currently working on advanced Demand Side Platform service (aka DSP) for a brand-new startup.    
 - 🌱 I’m studying all about blockchain, Web3 and Solidity programming language. 
