@@ -10,7 +10,22 @@ I'm a passionate software developer and cloud solution architect with 20+ years 
 - ⚡I am training to complete my first ["Spartan Race"](https://it.spartan.com/en/race/detail/7866/overview). Please, send me "good mana" since I need it. :pray:
 
 
+
+<hr/>
+<div align="center">
+   💥 ⭐ Take a look at my first personal NFT 💥 ⭐ 
+</div>
+
+<br/>
+<div align="center">
+  <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
+    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
+  </a>
+</div>
+
+
 ##### A bunch of different technologies I use
+<hr height: "1px"/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="52" width="52" alt="dotnetcore logo"  />
@@ -28,23 +43,3 @@ I'm a passionate software developer and cloud solution architect with 20+ years 
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t" height="52" width="52" alt="alchemy logo"  />
   <img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" height="52" width="52" alt="openzeppelin logo" />
 </div>
-
-
-<hr/>
-<div align="center">
-   💥 ⭐ Take a look at my first personal NFT 💥 ⭐ 
-</div>
-
-<br/>
-<div align="center">
-  <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
-    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
-  </a>
-</div>
-
-
-
-
-<!--img src="https://github-readme-stats.vercel.app/api?username=nttluke&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nttluke&&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/-->
