@@ -25,7 +25,7 @@ I'm a passionate software developer and cloud solution architect with 20+ years 
 
 
 ##### A bunch of different technologies I use
-<hr height: "1px"/>
+<hr/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="52" width="52" alt="dotnetcore logo"  />
