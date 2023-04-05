@@ -24,7 +24,19 @@ I'm a passionate software developer and cloud solution architect with 20+ years 
 </div>
 
 
-##### A bunch of different technologies I use
+<hr/>
+<div align="center">
+   💥 ⭐ Crazy Map Web3 Project Released 💥 ⭐ 
+</div>
+
+<br/>
+<div align="center">
+  <a href="https://github.com/NTTLuke/crazymap" target="_blank">
+    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" style="width:620px;"/>
+  </a>
+</div>
+
+
 <hr/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" width="52" alt="azure logo"  />
