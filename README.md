@@ -5,7 +5,7 @@
 I'm a passionate software developer and cloud solution architect with 20+ years of experience in software development.
 
 - 🔭 I’m currently working on AI/ML Demand Side Platform (aka DSP) for a brand-new startup.   
-- 🌱 I'm working with Langchain and GenAI tools for building "amazing stuffs".
+- 🛠️ I'm building "amazing stuffs" with Langchain and GenAI tools.
 - 🌱 Passion for blockchain, Web3 and Solidity
 - :guitar: I'm a music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and I play guitar with the folk/rock band [Lingalad](https://it.wikipedia.org/wiki/Lingalad)  
 - ⚡I am training to complete my first ["Spartan Race"](https://it.spartan.com/en/race/detail/7866/overview). Please, send me "good mana" since I need it. :pray:
