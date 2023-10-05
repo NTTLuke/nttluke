@@ -35,22 +35,4 @@ I'm a passionate software developer and cloud solution architect with 20+ years 
   </a>
 </div>
 
-
 <hr/>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="52" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="52" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/services_devops_pipelines-icon-80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&qlt=100&fmt=png-alpha&fit=constrain" height="52" width="52" alt="devops logo"  />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="52" width="52" alt="c# logo"  />
-  <img src="https://raw.githubusercontent.com/grafana/k6/e8140190cb9126498b502b7aa1dad8c095c3fa51/assets/logo.svg" height="52" width="52" alt="k6 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" width="48" alt="mongodb logo"  />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="52" width="52" alt="postman logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" width="48" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" width="52" alt="docker logo"  />
-  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" height="52" width="52" alt="sql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" width="52" alt="python logo"  />
-  <img src="https://www.zyte.com/wp-content/uploads/2021/02/zyte-logo-1920.png" height="40" width="52" alt="zyte logo"  />
-  <img src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png" height="52" width="52" alt="solidity logo"  />
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t" height="52" width="52" alt="alchemy logo"  />
-  <img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" height="52" width="52" alt="openzeppelin logo" />
-</div>
