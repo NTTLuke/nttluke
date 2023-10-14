@@ -1,38 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7FF&width=435&lines=Hi+there%2C+I'm+Luca%F0%9F%91%8B;Love+%F0%9F%96%A4+Code+🧑‍💻+and+Play++🎸)](https://git.io/typing-svg)
 
+📌 **About Me**
 
+- 👨‍💻 Passionate software developer and cloud solution architect with 20+ years of experience.
+- 🔭 Currently working on an AI/ML Demand Side Platform (DSP) for a startup.   
+- 🛠️ Building innovative solutions using Langchain and GenAI.
+- 🌱 Enthusiastic about blockchain, Web3, and Solidity.
+- 🎶 Music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitarist for [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
 
-I'm a passionate software developer and cloud solution architect with 20+ years of experience in software development.
+---
 
-- 🔭 I’m currently working on AI/ML Demand Side Platform (aka DSP) for a brand-new startup.   
-- 🛠️ I'm building "amazing stuffs" with Langchain and GenAI tools.
-- 🌱 Passion for blockchain, Web3 and Solidity
-- :guitar: I'm a music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and I play guitar with the folk/rock band [Lingalad](https://it.wikipedia.org/wiki/Lingalad)  
-
-
-<hr/>
 <div align="center">
-   💥 ⭐ Take a look at my first personal NFT 💥 ⭐ 
-</div>
+
+💥 ⭐ **Check Out My First Personal NFT** ⭐ 💥 
 
 <br/>
-<div align="center">
-  <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
-    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256"/>
-  </a>
+
+<a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
+    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256" width="256"/>
+</a>
+
 </div>
 
+---
 
-<hr/>
 <div align="center">
-   💥 ⭐ Crazy Map Web3 Project Released 💥 ⭐ 
-</div>
+
+💥 ⭐ **New Web3 Project: Crazy Map** ⭐ 💥 
 
 <br/>
-<div align="center">
-  <a href="https://github.com/NTTLuke/crazymap" target="_blank">
-    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" style="width:620px;"/>
-  </a>
-</div>
 
-<hr/>
+<a href="https://github.com/NTTLuke/crazymap" target="_blank">
+    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" width="620"/>
+</a>
+
+</div>
