@@ -8,7 +8,7 @@
 - 🌱 Enthusiastic about blockchain, Web3, and Solidity.
 - 🎶 Music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitarist for [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
 
----
+-------------
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Le Avventure di Cielo Stellato-ITA version <br/>
 <br/>
 
 <a href="https://github.com/NTTLuke/crazymap" target="_blank">
-    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" width="620"/>
+    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" width="500"/>
 </a>
 
 </div>
