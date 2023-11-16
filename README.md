@@ -12,6 +12,24 @@
 
 <div align="center">
 
+💥 ⭐ **My New Kids' Book, Illustrated with AI Magic** ⭐ 💥 
+
+<br/>
+
+<a href="https://amzn.eu/d/1gVvNUq" target="_blank">
+    <img src="./Cover-github.png" width="256"/>
+</a>
+<br/>
+Le Avventure di Cielo Stellato-ITA version <br/>
+[https://amzn.eu/d/1gVvNUq]
+</div>
+
+
+
+---
+
+<div align="center">
+
 💥 ⭐ **Check Out My First Personal NFT** ⭐ 💥 
 
 <br/>
