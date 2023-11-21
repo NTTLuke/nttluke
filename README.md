@@ -49,7 +49,7 @@ Le Avventure di Cielo Stellato-ITA version <br/>
 <br/>
 
 <a href="https://github.com/NTTLuke/crazymap" target="_blank">
-    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg" width="500"/>
+    <img src="https://github.com/NTTLuke/crazymap/blob/main/app/DRAFT/Logo.jpg?raw=true" width="500"/>
 </a>
 
 </div>
