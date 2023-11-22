@@ -35,7 +35,9 @@ Le Avventure di Cielo Stellato-ITA version <br/>
 <br/>
 
 <a href="https://opensea.io/collection/geometricshapes-v3" target="_blank">
-    <img src="https://i.seadn.io/gae/OvOGfMqaV2otMDoSlXDHzRlZFx9FpenFdcBdqH7Y64de219wBT2NcwuY3rBrOilHJvzbmz8KAtmTOsxMUznnPY-uqQ8S73VPOnnI?auto=format&w=256" width="256"/>
+    <img src="./geometric shape.png" width="256"/>
+    
+    
 </a>
 
 </div>
