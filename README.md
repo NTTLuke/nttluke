@@ -12,7 +12,7 @@
 
 <div align="center">
 
-💥 ⭐ **my children's book, Illustrated with AI Magic** ⭐ 💥 
+💥 ⭐ **My children's book, Illustrated with AI Magic** ⭐ 💥 
 
 <br/>
 
