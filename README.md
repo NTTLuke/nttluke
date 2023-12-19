@@ -3,9 +3,8 @@
 📌 **About Me**
 
 - 👨‍💻 Passionate software developer and cloud solution architect with 20+ years of experience.
-- 🔭 Currently working on an AI/ML Demand Side Platform (DSP) for a startup.   
-- 🛠️ Building innovative solutions using Langchain and GenAI.
-- 🌱 Enthusiastic about blockchain, Web3, and Solidity.
+- 🛠️ LLM and GenAI builder.
+- 🌱 Blockchain, Web3 and Solidity for fun.
 - 🎶 Music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitarist for [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
 
 -------------
