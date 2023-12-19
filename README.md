@@ -2,7 +2,7 @@
 
 📌 **About Me**
 
-- 👨‍💻 Passionate software developer and cloud solution architect with 20+ years of experience.
+- 👨‍💻 Passionate software developer and cloud solution architect.
 - 🛠️ LLM and GenAI mechanic.
 - 🌱 Blockchain, Web3 and Solidity for fun.
 - 🎶 Music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitarist for [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
