@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7FF&width=435&lines=Hi+there%2C+I'm+Luca%F0%9F%91%8B;Love+%F0%9F%96%A4+Code+🧑‍💻+and+Play++🎸)](https://git.io/typing-svg)
 
 📌 **About Me**
-
 - 👨‍💻 Passionate software developer and cloud solution architect.
 - 🛠️ LLM and GenAI mechanic.
-- 🌱 Blockchain, Web3 and Solidity for fun.
-- 🎶 Music producer for [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitarist for [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
+- 🎶 Music producer [Buonamusika](https://www.instagram.com/buonamusika/?hl=en) and guitar player [Lingalad](https://it.wikipedia.org/wiki/Lingalad).
+- 🏅 Spartan Racer
 
 -------------
 
