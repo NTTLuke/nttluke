@@ -3,11 +3,8 @@
 
 <!-- <img src="./image.jpg" alt="Profile Image" width="300" height="300"/> -->
 
-<div align="center">
-    
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=1C6280&width=300&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
-
-</div>    
 
 <br/>
 
