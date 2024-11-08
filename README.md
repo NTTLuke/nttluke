@@ -1,7 +1,7 @@
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-<img src="./image.jpg" alt="Profile Image" width="300" height="300"/>
+<!-- <img src="./image.jpg" alt="Profile Image" width="300" height="300"/> -->
 
 <div align="center">
     
