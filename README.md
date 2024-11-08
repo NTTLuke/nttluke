@@ -13,7 +13,7 @@
 
 <div align="left">
 
-I'm a passionate Senior Software Developer and Cloud Solution Architect with a passion for building LLM and GenAI solutions. 
+I'm a Senior Software Developer and Cloud Solution Architect with a passion for building LLM and GenAI solutions. 
 Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buonamusika/?hl=en)) and guitarist ([Lingalad](https://it.wikipedia.org/wiki/Lingalad)), as well as an enthusiastic Spartan Racer.
 </div>
 
