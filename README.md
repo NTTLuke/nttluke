@@ -1,4 +1,6 @@
 <div align="center">
+ <img src="./bar.jpg" alt="Profile Image" width="120" />   
+
 </div>
 <br/>
 
