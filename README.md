@@ -3,8 +3,9 @@
 </div>
 <div align="center">
  
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=800&color=051319&width=200&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=800&color=051319&width=120&lines=Hi%2C+I'm+Luca)](https://git.io/typing-svg)
 </div>
+<br/>
 <div align="left">
 
 I'm a Senior Software Developer and Cloud Solution Architect with a passion for building LLM and GenAI solutions. 
@@ -12,5 +13,12 @@ Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buo
    
 </div>
 <br/>
+<br/>
+<br/>
+<div align="center">
+ <img src="./foot_2.jpg" alt="Profile Image" width="150" />   
+</div>
+
+
 
 
