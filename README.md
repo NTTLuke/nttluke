@@ -1,9 +1,6 @@
 <div align="center">
  <img src="./bar_2.jpg" alt="Profile Image" width="700" />   
-
 </div>
-<br/>
-
 <div align="center">
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=800&color=051319&width=200&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
