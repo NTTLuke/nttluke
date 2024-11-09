@@ -1,22 +1,21 @@
+<div align="center">
+ 
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=1C6280&width=200&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
 
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
 
-<!-- <img src="./image.jpg" alt="Profile Image" width="300" height="300"/> -->
-
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=1C6280&width=300&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
-
-<br/>
+</div>
 
 <div align="left">
 
 I'm a Senior Software Developer and Cloud Solution Architect with a passion for building LLM and GenAI solutions. 
 Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buonamusika/?hl=en)) and guitarist ([Lingalad](https://it.wikipedia.org/wiki/Lingalad)), as well as an enthusiastic Spartan Racer.
+   
 </div>
-
-</div>
-
 <br/>
+<div align="center">
+<img src="./bar.jpg" alt="Profile Image" width="180" />   
+</div>
+
 <!-- 
 <div align="center">
 <a href="https://amzn.eu/d/1gVvNUq" target="_blank">
