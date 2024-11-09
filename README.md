@@ -1,10 +1,7 @@
 <div align="center">
- 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=1C6280&width=200&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
-
-
+<img src="./bar.jpg" alt="Profile Image" width="120" />   
 </div>
-
+<br/>
 <div align="left">
 
 I'm a Senior Software Developer and Cloud Solution Architect with a passion for building LLM and GenAI solutions. 
@@ -12,21 +9,8 @@ Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buo
    
 </div>
 <br/>
+
 <div align="center">
-<img src="./bar.jpg" alt="Profile Image" width="180" />   
+ 
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka&pause=800&color=1C6280&width=200&lines=Hi%2C+I'm+Luca;Love%2C+Code+and+Play)](https://git.io/typing-svg)
 </div>
-
-<!-- 
-<div align="center">
-<a href="https://amzn.eu/d/1gVvNUq" target="_blank">
-  <img src="./Cover-github.png" alt="Children's Book Cover" width="120"/>
-</a>
-
-Children's Book, Illustrated with AI Magic
-<br/>
-<a href="https://amzn.eu/d/1gVvNUq">ITA</a>
-<a href="https://amzn.eu/d/4tUmJzF">ENG</a>
-
-</div>
- -->
-
