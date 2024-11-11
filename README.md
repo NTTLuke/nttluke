@@ -15,7 +15,7 @@ Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buo
 <br/>
 <br/>
 <div align="center">
- <img src="./foot_2.jpg" alt="Profile Image" width="150" />   
+ <img src="./foot_2.jpg" alt="Profile Image" width="120" />   
 </div>
 
 
