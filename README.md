@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./bar_3.jpg" alt="Profile Image" width="700" />   
+ <img src="./bar5.jpg" alt="Profile Image" width="110" />   
 </div>
 <div align="center">
  
@@ -12,7 +12,6 @@ I'm a Senior Software Developer and Cloud Solution Architect with a passion for 
 Beyond coding, I'm a music producer ([Buonamusika](https://www.instagram.com/buonamusika/?hl=en)) and guitarist ([Lingalad](https://it.wikipedia.org/wiki/Lingalad)), as well as an enthusiastic Spartan Racer.
    
 </div>
-<br/>
 <br/>
 <br/>
 <div align="center">
