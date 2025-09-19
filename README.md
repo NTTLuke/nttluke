@@ -24,6 +24,6 @@
     </a>
   </p-->
   <!-- Footer Image -->
-  <img src="./foot_2.jpg" alt="Profile Image" width="200" style="border-radius: 50%; margin-top: 20px; opacity: 0.95;" />
+  <img src="./foot_2.jpg" alt="Profile Image" width="200" style="border-radius: 50%; opacity: 0.95;" />
 
 </div>
